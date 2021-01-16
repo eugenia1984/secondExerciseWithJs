@@ -2,7 +2,7 @@
 
 ## What I did 🚀
 
-This is my secondt exercise learning JavaScript. <br/>
+This is my second exercise learning JavaScript. <br/>
 1. I generated an SCRIPT with VARIABLES and use the OPERATORS to do: addition, subtraction,  multiplication, and division <br/>
 2. I generated an ARRAY with my five favourites series or movies <br/>
 3. I show my favourites series or movies alphabetical ordered with a .sort()
