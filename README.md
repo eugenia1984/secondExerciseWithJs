@@ -14,7 +14,7 @@ _This Project only has one master branch, it was a small project so it did not n
 
 ## Builded with 🛠️
 
-_**HTML 5** ,  **CSS3** and **JAVASCRIPT** 
+**HTML 5** ,  **CSS3** and **JAVASCRIPT** 
 
 ## Demo 📦
 _If you want to see how this project was, you can do it from:_
